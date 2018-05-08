@@ -17,3 +17,7 @@
 	- Tham gia viết tóm tắt và chấm chéo [tài liệu môn học](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.96he3yu1bnz4).
 
 ### Tổng kết: Qua khoá học Công nghệ phần mềm, em đã học được thêm nhiều kiến thức về xây dựng trang web, quy trình xây dựng phần mềm cũng như khả năng làm việc nhóm một cách hiệu quả.
+**Chấm điểm:**
+	- Người chấm: Đặng Quang Tường.
+	- Điểm: 9.5.
+	- Nhận xét: Hoàn thành tốt các khoá học yêu cầu, tích cực đóng góp vào dự án nhóm (link các commit ở trên), dự án nhóm theo nhận 	   định cá nhân là tốt, báo cáo dự án nhóm khá đầy đủ tuy nhiên thiếu các hình ảnh minh hoạ, link trích dẫn các nguồn tư liệu.
